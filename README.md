@@ -15,11 +15,15 @@ This is a simple To-Do list application built using Node.js, MongoDB, and React.
 
 ### The application is built using the following technologies:
 
-Node.js: A JavaScript runtime for building server-side applications.
-MongoDB: A NoSQL database used to store and manage data.
-React: A JavaScript library for building user interfaces.
-Express: A minimal and flexible Node.js web application framework used to build the REST API.
-Socket.io: A JavaScript library used to implement real-time updates.
+`Node.js:` A JavaScript runtime for building server-side applications.
+
+`MongoDB:` A NoSQL database used to store and manage data.
+
+`React:` A JavaScript library for building user interfaces.
+
+`Express:` A minimal and flexible Node.js web application framework used to build the REST API.
+
+`Socket.io:` A JavaScript library used to implement real-time updates.
 
 ## Here are the APIs that you could build for your To-Do list application:
 
